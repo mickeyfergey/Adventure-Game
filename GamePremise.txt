@@ -1,7 +1,9 @@
-Welcome to the adventure game!
-Your goal is to obtain freedom and play Xbox with your best friend, Bob!
-The way to escape is simple. Find items that unlock rooms in the house.
-But it gets more complicated from there!
+Welcome to the super duper awesome adventure game!
+   
+Your goal is to obtain freedom from your family and play Xbox with your best friend, Bob!
+The way to escape is simple! Find items around the house that unlock other rooms in the house.
+But it gets more complicated from there! You will be scored on how many items you find!
+
 
 Good luck!
 By Mickey Fergus
